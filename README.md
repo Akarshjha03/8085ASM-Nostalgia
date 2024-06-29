@@ -33,14 +33,8 @@ Welcome to 8085ASM-Nostalgia, a repository dedicated to learning and mastering a
 #### Part A: Finding the minimum of two 8-bit numbers
 - Program: [min_8bit.asm](./min_8bit.asm)
 
-#### Part B: Finding the minimum in a block of n 8-bit numbers
-- Program: [min_block.asm](./min_block.asm)
-
-#### Part A: Finding the maximum of two 8-bit numbers
+#### Part B: Finding the maximum of two 8-bit numbers
 - Program: [max_8bit.asm](./max_8bit.asm)
-
-#### Part B: Finding the maximum in a block of n 8-bit numbers
-- Program: [max_block.asm](./max_block.asm)
 
 ### 5. Sorting
 
